@@ -1,0 +1,5 @@
+[build]
+  base = "/"             
+  command = "yarn build"
+  publish = "shecodes_week_six"
+  log = "public"         
