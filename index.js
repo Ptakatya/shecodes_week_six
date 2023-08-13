@@ -1,4 +1,4 @@
-var apiKey '8cd9be374c7c96c39a9fe73f4bf2f055';
+var apiKey 'f873067b82e3ea312f33adb999969b73';
 
 document.addEventListener('DOMContentLoaded', function() {
   var searchForm = document.getElementById('searchForm');
